@@ -1,3 +1,4 @@
+
 # rb-cases v2 Case Opening System for QBCore
 
 Give your players an exciting case-opening experience with smooth animations, rarity tiers.
@@ -18,3 +19,6 @@ qb-inventory
 
 # Tebex
 https://evoplan-development.tebex.io/package/rp-case-v2
+
+
+<img width="920" height="534" alt="Screenshot 2026-04-09 184203" src="https://github.com/user-attachments/assets/53e860b6-313b-4f71-8e00-72bed1ea46d6" />
