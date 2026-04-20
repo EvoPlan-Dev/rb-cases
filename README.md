@@ -13,9 +13,9 @@ Item images automatically loaded from qb-inventory
 Comes with 6 ready-to-use cases: Weapon Case, Pig Case, Simpel Case, Golden War Case, Tech Case & Funny Case
 
 # Dependencies:
-QBCore Framework
-oxmysql
-qb-inventory
+- QBCore Framework
+- oxmysql
+- qb-inventory
 
 # Tebex
 https://evoplan-development.tebex.io/package/rp-case-v2
